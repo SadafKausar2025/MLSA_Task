@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop images with code on screen coffee notebook and plant on desk";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Weather Forecast Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is the weather forecast projects which tell about the weather of the city for which we search and finally we get",
+    url: "https://sadafkausar2025.github.io/WEATHER/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Calculator by HTML , CSS  and JavaScript",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is the calculator website having all the basic calculating methods which we can do in our daily use.",
+    url: "https://sadafkausar2025.github.io/Calculator/",
   },
   {
-    title: "My Resume Site",
+    title: "The Tic Tac Toe Game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is the beautiful Tic Tac Toe Game and any two can play and have a nice feelings",
+    url: "https://sadafkausar2025.github.io/Tic-Tac-Toe/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Analog Clock",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is the beautiful working Analog clock which gives right time as per my location",
+    url: "https://sadafkausar2025.github.io/Analog_Clock/",
   },
 ];
 
